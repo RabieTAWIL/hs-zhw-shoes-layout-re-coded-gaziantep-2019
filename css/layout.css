@@ -26,7 +26,6 @@
 
 .colum3{
   column-count: 3;
-<<<<<<< HEAD
   clear: both;
 }
 
@@ -44,10 +43,8 @@
   margin-left: 1.5%;
   margin-bottom: 2%;
 }
-=======
-}
+
 
 .colum2{
   column-count: 2;
 }
->>>>>>> 83fd055522120ca94b4ba88f94272f0a1c386eba
